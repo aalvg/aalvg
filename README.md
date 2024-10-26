@@ -7,6 +7,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aalvg&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/aalvg)
 
+
 <ul align="left">
   <li>👋 Olá, eu sou Anderson!</li>
   <li>👨‍💻 Desenvolvedor WEB</li>
@@ -25,9 +26,10 @@
   <a href="https://twitter.com/a_alvg" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="20" />
   </a>
-    <a href="https://instagram.com/a_alvg" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="20" />
-  </a>
+<a href="https://instagram.com/a_alvg" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20" />
+</a>
+
 </p>
 
 ---
