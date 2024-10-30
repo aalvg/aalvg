@@ -26,7 +26,7 @@
   <a href="https://twitter.com/a_alvg" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="20" />
   </a>
-<a href="https://instagram.com/a_alvg" target="_blank">
+<a href="https://instagram.com/alvg_dev" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20" />
 </a>
 
